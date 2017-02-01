@@ -8,7 +8,7 @@ STON Edge Server 완벽 가이드
 ==========================
 
 :저자: STON 개발팀
-:최신버전: 2.4.1, 2016년 11월 24일
+:최신버전: 2.4.3, 2017년 1월 20일
 
 
 1부. STON 기본: 설정 배우기
@@ -54,12 +54,12 @@ STON Edge Server 완벽 가이드
 .. toctree::
    :maxdepth: 2
 
+   admin/adv_vhost
    admin/access_control
    admin/bandwidth_control
    admin/media
    admin/filesystem
    admin/adv_topics
-   admin/adv_vhost
 
 
 5부. 부록
@@ -72,5 +72,3 @@ STON Edge Server 완벽 가이드
    admin/cacti
    admin/dynpage_exception.rst
    admin/releasenote.rst
-   media/draft_01.rst
-   media/draft_02.rst
